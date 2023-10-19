@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Trading Application </title>
+    #Trading Application
 </head>
  <body>
     <h1>Repository Description:</h1>
