@@ -1,11 +1,11 @@
-## Trading Application
+## Trading Application using C++
 <!DOCTYPE html>
 <html>
 <head>
 
 </head>
  <body>
-    <h1>Repository Description:</h1>
+    <h2>Repository Description:</h2>
     <p>This C++ program, named "SimpleBankingWithCrypto," is a console-based banking and cryptocurrency management system. It allows users to create an account, deposit and withdraw funds, buy and sell cryptocurrencies (Bitcoin, Litecoin, and Dodgecoin), and view transaction history. Users can also track their equity and cryptocurrency investments. The program is a simple representation of a banking system with basic cryptocurrency trading capabilities. It's a great starting point for learning C++ programming and basic financial management concepts.</p>
     <h2>Key Features:</h2>
     <ul>
